@@ -1,3 +1,8 @@
+TODO @edwinclement08
+=====
+
+Make an overlay that helps in learning the short cuts faster and also divide the shortcuts on the pref pane appropriately.
+
 Amethyst
 ========
 
